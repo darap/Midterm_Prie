@@ -1,16 +1,15 @@
 package com.cisc181.core;
- 
 import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
-import java.util.UUID;
 import java.util.Date;
+import java.util.UUID;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.cisc181.eNums.eMajor;
-
+import java.util.List;
 
 public class Student_Test {
 	
